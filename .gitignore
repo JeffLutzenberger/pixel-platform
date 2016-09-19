@@ -1,0 +1,12 @@
+# ignore all
+*
+
+# except for .cpp, .rb and .py
+!*/
+!.gitignore
+!.js
+!.html
+!*.cpp
+!*.py
+!*.md
+!*.txt
